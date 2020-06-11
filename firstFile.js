@@ -1,3 +1,2 @@
 console.log("sonu")
-console.log("roo")
-console.log("danis")
+console.log("danish")
